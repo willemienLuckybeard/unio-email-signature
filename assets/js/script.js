@@ -2,7 +2,7 @@ let vm = new Vue({
   el: "#wrapper",
   data: {
    //assetsBaseURL: ".",
-    assetsBaseURL: "https://master.dqkbud5tmnzna.amplifyapp.com/",
+    assetsBaseURL: "https://master.dqkbud5tmnzna.amplifyapp.com",
     name: "",
     position: "",
     mobile: "",
